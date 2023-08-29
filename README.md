@@ -1,4 +1,6 @@
-Sou um Web Designer e Front End Developer apaixonado por criar soluções inovadoras e alinhadas às necessidades do negócio de forma colaborativa. 
+# 👨‍🎨 Bem-vindo ao meu Perfil! 👋
+
+# Sou um Web Designer e Front End Developer apaixonado por criar soluções inovadoras e alinhadas às necessidades do negócio de forma colaborativa. 
 
 🚀 Estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área, visando entregar resultados impactantes. 
 
